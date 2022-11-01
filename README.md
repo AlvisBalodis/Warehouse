@@ -1,6 +1,6 @@
 # Warehouse
 
-**Warehouse** is a simple CRUD RESTful web app based on [Laravel](https://laravel.com/).
+**Warehouse** is a simple CRUD web app based on [Laravel](https://laravel.com/).
 
 Application have products warehouse (name, type, price, some basic info).
 You can open organization profile and register successfully sold product (registered action have date when service was
