@@ -42,17 +42,14 @@ localhost:8000
 
 ### Screenshots
 
-![](../../../Desktop/Warehouse_1.png)
+<img width="750" alt="Warehouse_1" src="https://user-images.githubusercontent.com/53913245/199246358-1903c59e-683e-481f-a27f-b20050f00c00.png">
 
-![](../../../Desktop/Warehouse_2.png)
+<img width="750" alt="Warehouse_2" src="https://user-images.githubusercontent.com/53913245/199246422-54dbf6d6-e880-467a-871f-7edbde5fe1f9.png">
 
-![](../../../Desktop/Warehouse_3.png)
+<img width="750" alt="Warehouse_3" src="https://user-images.githubusercontent.com/53913245/199246440-a3d08655-e062-4be7-b289-5ac7d0996a35.png">
 
-![](../../../Desktop/Warehouse_4.png)
+<img width="750" alt="Warehouse_4" src="https://user-images.githubusercontent.com/53913245/199246462-ec91bc48-8819-48fd-9e4c-7568b481760f.png">
 
-![](../../../Desktop/Warehouse_5.png)
+<img width="750" alt="Warehouse_5" src="https://user-images.githubusercontent.com/53913245/199246481-1383a231-1195-4954-80fb-e3cba1025677.png">
 
-![](../../../Desktop/Warehouse_6.png)
-
-
-
+<img width="750" alt="Warehouse_6" src="https://user-images.githubusercontent.com/53913245/199246496-3a1be42d-bd07-4384-bfd4-4de82dec55b6.png">
